@@ -21,3 +21,5 @@ Este proyecto es el Trabajo Práctico Integrador para la materia **Organización
 
 ## 👥 Integrantes / Autor
 - **Tapia Maria de los Angeles** - *Tecnicatura Universitaria en Programación (UTN)*
+- **link TP https://docs.google.com/document/d/11xCT8FpjYaDLtOye8EXiqfRMbdX_p0wQHMax1VlyHBs/edit?usp=sharing
+- 
